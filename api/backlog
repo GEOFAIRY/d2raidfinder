@@ -1,0 +1,12 @@
+- a user needs to be able to request a login token
+- a user needs to be able to request a logout
+- a user needs to be able to create an account
+- a user needs to be able to delete their account
+- the program needs to keep track of current raids in d2
+- a user needs to be able to create a raid game
+- a user needs to be able to delete a raid game
+- a user needs to be able to edit a raid game
+- a user needs to be able to view previous raids
+- a user needs to be able to view current open raid games
+- a user needs to be able to join a current open raid game
+- a user needs to be able to leave thier current raid game
