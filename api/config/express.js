@@ -34,10 +34,6 @@ module.exports = function() {
     app.use(cors());
     app.use(morgan('combined'));
     app.use(jwtCheck);
-    app.use((req, res, next) => {
-        console.log(`##### ${req.method} ${req.path} #####`);
-        next();
-    });
 
     app.rootUrl = '/api/v1'
 
